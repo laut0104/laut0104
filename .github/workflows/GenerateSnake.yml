@@ -20,6 +20,6 @@ jobs:
           svg_out_path: ./img/snake.svg
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
-        with:
+        with: # ブランチ名はデフォルトブランチ名にする(main or master)
           branch: main
           message: ":rocket: Update"
