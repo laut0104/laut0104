@@ -2,9 +2,6 @@
   <a href="https://github.com/laut0104/laut0104/">
     <img src="https://komarev.com/ghpvc/?username=laut0104" alt="laut0104" />
   </a>
-  <a href="http://twitter.com/yaakun0104">
-    <img height="20" src="https://img.shields.io/twitter/follow/yaakun0104?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/laut0104">
     <img height="20" src="https://img.shields.io/github/followers/laut0104?label=follow&logo=github&style=flat" />
   </a>
