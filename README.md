@@ -7,12 +7,12 @@
   </a>
 </p>
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/laut0104/laut0104/main/img/snake.svg)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laut0104&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=laut0104&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/laut0104/laut0104/main/img/snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=laut0104&theme=gruvbox&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/laut0104/laut0104/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
