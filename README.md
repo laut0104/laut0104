@@ -19,3 +19,5 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=laut0104&theme=github)](https://activity-graph.herokuapp.com/graph?username=laut0104&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=laut0104&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=laut0104&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laut0104&theme=dracula)
